@@ -2,7 +2,7 @@
 
 ## Getting Started
 <img src="C:\Users\Beth\git\homework\Coding Quiz\Capture.JPG">
-
+https://bspencer181.github.io/CodingQuiz/
 
 ## Instructions
 - This is a coding quiz containing 4 multiple choice questions.
